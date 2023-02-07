@@ -4,4 +4,4 @@ This is just a implementation of tictactoe in c++, played in the command line. -
               x x x
               x x x
               x x x          
-                        in the command line, where x is some previously defined #.
+ in the command line, where x is some previously defined #.
